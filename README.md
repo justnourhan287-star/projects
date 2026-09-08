@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/72a54753-df2f-45e8-91a6-cfc14a0f1a1f
-
 # 🤖 Line Follower & Obstacle Avoiding Robot
 
 An autonomous robotic vehicle designed to navigate along a black line path and automatically detect and avoid obstacles in its path.
